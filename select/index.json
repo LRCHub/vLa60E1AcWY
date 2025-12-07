@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "コールボーイ",
+  "base_artist": "Ado",
+  "createdAt": "2025-12-07T09:27:34.074030Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "コールボーイ",
+      "artist": "syudou",
+      "has_synced": true,
+      "path": "select/01_コールボーイ_syudou.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "コールボーイ",
+      "artist": "syudou feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/02_コールボーイ_syudou_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "コールボーイ",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/03_コールボーイ_Ado.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "コールボーイ",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/04_コールボーイ_Ado.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "コールボーイ",
+      "artist": "syudou",
+      "has_synced": true,
+      "path": "select/05_コールボーイ_syudou.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "コールボーイ - Call Boy",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/06_コールボーイ_-_Call_Boy_Ado.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "コールボーイ (Kurokami Fubuki cover)",
+      "artist": "syudou",
+      "has_synced": true,
+      "path": "select/07_コールボーイ_(Kurokami_Fubuki_cover)_syudou.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "コールボーイ",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/08_コールボーイ_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "コールボーイ (feat. 東雲彰人&青柳冬弥&初音ミク)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/09_コールボーイ_(feat._東雲彰人&青柳冬弥&初音ミク)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "コールボーイ",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_コールボーイ_Ado.txt"
+    }
+  ]
+}
